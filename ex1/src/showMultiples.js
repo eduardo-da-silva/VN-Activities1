@@ -17,4 +17,4 @@ const showMultiples = (number) => {
   return number;
 };
 
-export { showMultiples };
+export default showMultiples;

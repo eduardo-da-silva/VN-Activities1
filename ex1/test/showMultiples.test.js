@@ -1,4 +1,4 @@
-import { showMultiples } from '../src/showMultiples.js';
+import showMultiples from '../src/showMultiples.js';
 
 test('showMultiples', () => {
   expect(showMultiples(3)).toBe('Visual');
